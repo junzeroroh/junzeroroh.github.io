@@ -1,9 +1,9 @@
-@charset "UTF-8";
-@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css); /* font-family: 'Jeju Gothic', sans-serif; */
-@import url(//fonts.googleapis.com/earlyaccess/jejumyeongjo.css); /* font-family: 'Jeju Myeongjo', serif; */
-@import url(//fonts.googleapis.com/earlyaccess/jejuhallasan.css); /* font-family: 'Jeju Hallasan', cursive; */
-@import url(//fonts.googleapis.com/earlyaccess/kopubbatang.css); /* font-family: 'KoPub Batang', serif; */
-@import url(//fonts.googleapis.com/earlyaccess/hanna.css); /* font-family: 'Hanna', sans-serif; */
+﻿@charset "UTF-8";
+@import url(../../fonts.googleapis.com/earlyaccess/jejugothic.css); /* font-family: 'Jeju Gothic', sans-serif; */
+@import url(../../fonts.googleapis.com/earlyaccess/jejumyeongjo.css); /* font-family: 'Jeju Myeongjo', serif; */
+@import url(../../fonts.googleapis.com/earlyaccess/jejuhallasan.css); /* font-family: 'Jeju Hallasan', cursive; */
+@import url(../../fonts.googleapis.com/earlyaccess/kopubbatang.css); /* font-family: 'KoPub Batang', serif; */
+@import url(../../fonts.googleapis.com/earlyaccess/hanna.css); /* font-family: 'Hanna', sans-serif; */
 
 @font-face {
     font-family: 'Arita-buri-SemiBold';
