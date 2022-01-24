@@ -1,0 +1,13 @@
+/*
+ * Hanna (Korean) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Hanna';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/ea/hanna/v3/BM-HANNA.eot);
+  src: url(http://fonts.gstatic.com/ea/hanna/v3/BM-HANNA.eot?#iefix) format('embedded-opentype'),
+       url(http://fonts.gstatic.com/ea/hanna/v3/BM-HANNA.woff2) format('woff2'),
+       url(http://fonts.gstatic.com/ea/hanna/v3/BM-HANNA.woff) format('woff'),
+       url(http://fonts.gstatic.com/ea/hanna/v3/BM-HANNA.ttf) format('truetype');
+}

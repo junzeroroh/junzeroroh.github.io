@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+barunsonmcard.com	TRUE	/	FALSE	1999999999	NCPVPCLBTG	af11f614844b614a638f44112a7697191017ff9df041a84dbbd4e6dfe796235f
+
