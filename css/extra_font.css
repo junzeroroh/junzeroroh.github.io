@@ -1,0 +1,36 @@
+@charset "UTF-8";
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css); /* font-family: 'Jeju Gothic', sans-serif; */
+@import url(//fonts.googleapis.com/earlyaccess/jejumyeongjo.css); /* font-family: 'Jeju Myeongjo', serif; */
+@import url(//fonts.googleapis.com/earlyaccess/jejuhallasan.css); /* font-family: 'Jeju Hallasan', cursive; */
+@import url(//fonts.googleapis.com/earlyaccess/kopubbatang.css); /* font-family: 'KoPub Batang', serif; */
+@import url(//fonts.googleapis.com/earlyaccess/hanna.css); /* font-family: 'Hanna', sans-serif; */
+
+@font-face {
+    font-family: 'Arita-buri-SemiBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Arita-buri-SemiBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '116angmuburi';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.0/116angmuburi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'S-CoreDream-3Light';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'S-CoreDream-4Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-4Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
